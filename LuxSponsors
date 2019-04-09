@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<link rel="stylesheet" href="inline.css">
+<head>
+</head>
+<body>
+<img src="logoo.png" alt="Lux Logo" style="width:150px; height=150px;" class="center">
+<h1 style="text-align:center">Lux
+</h1>
+<nav>
+<a href="Lux2.html">Home</a>
+<a href="Catalog.html">Catalog</a>
+</nav>
+<br>
+<h2 style="text-align:center">Where does our stuff come from?
+</h2>
+<hr>
+<a href="www.apple.com">Apple</a><br>
+<a href="www.sony.com">Sony</a><br>
+<a href="www.samsung.com">Samsung</a><br>
+<a href="www.dell.com">Dell</a><br>
+<a href="www.acer.com">Acer</a><br>
+</body>
+</html>
