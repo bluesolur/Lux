@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<link rel="stylesheet" href="inline.css">
+<head>
+</head>
+<body>
+<img src="logoo.png" alt="Lux Logo" style="width:150px; height=150px;" class="center">
+<h1 style="text-align:center">Lux
+</h1>
+<nav>
+<a href="LuxSponsors.html">Sponsors</a>
+<a href="Catalog.html">Catalog</a>
+</nav>
+<br>
+<h2 style="text-align:center">About us
+	</h2>
+	<hr>
+<p>Lux is a technology online store. You can get stuff like computers, servers, consoles, monitors, phones, and all kinds of other stuff. My name is Julia Morales, and I want to program websites and become a website developer. I am also the creator and owner of this website. This website was opened due to a project I have to do in my e-Commerce I Honors class. Over the course of six weeks, we had to come up with an idea for our own e-Commerce store and make a real website people could possibly view. I opted to doing a technology store, as technology is always changing and becoming more advanced. We basically run on technology. So my goal is to give these pieces of technology at a cheaper price than what you would usually have to pay for in competing companies.</p>
+<h2 style="text-align:center">Privacy Policy
+</h2>
+<hr>
+<p>
+	Your privacy matters. So your information will <b>NOT</b> be sold and/or shared. Cookies are only used to collect information for in-house usages. Security of transmitted information is secure and notification of changes will be posted or made public.
+<h2 style="text-align:center">FAQ
+</h2>
+<hr>
+<br>
+<ol>
+	<li>Are you like Best Buy? <b>Yes, but we don't sell appliances.</b></li>
+	<li>Is there free shipping? <b>Yes. You must purchase over $100 to qualify though.</b></li>
+	<li>Is this website safe? <b>Yes! It is completely safe and secure.</b></li>
+	<li>How can I return my order? <b>e-mail me at noellejulia@yahoo.com</b>
+	<li>My order is damaged/lost. <b>e-mail me at noellejulia@yahoo.com</b>
+</body>
+</html>
