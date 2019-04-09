@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<link rel="stylesheet" href="inline.css">
+<head>
+</head>
+<body>
+<img src="logoo.png" alt="Lux Logo" style="width:150px; height=150px;" class="center">
+<h1 style="text-align:center">Lux
+</h1>
+<nav>
+<a href="Lux2.html">Home</a>
+<a href="LuxSponsors.html">Sponsors</a>
+</nav>
+</body>
+<table style="width:100%">
+  <tr>
+    <th>Items</th>
+  </tr>
+  <tr>
+    <td>iPhone Xs
+    	<br>$700
+    	<img src="iPhone.png" alt="iPhone Xs" height="100" width="100">
+    <form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart"></td>
+<td>
+	Samsung Galaxy Note 9
+	<br>$700
+	<img src="blue.jp2" alt="Galaxy" height="100" width="100">
+	<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+<td>iPhone XR
+	<br>$500
+	<img src="xr.png" alt="iPhone XR" height="100" width="100">
+	<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+<td>
+	Samsung Gaming Curved QLED Monitor
+	<br>$1000
+	<img src="monitor.jp2" alt="monitor" height="100" width="100"><br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+	<br>
+</td>
+  </tr>
+  <tr>
+    <td>PlayStation 4 Slim
+    	<br>$200
+    	<img src="slim.png" alt="ps4 slim" height="100" width="100">
+    	<br>
+    <form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart"></td>
+<td>Xbox One X
+	<br>$300
+	<img src="x.jpg" alt="Xbox One X" height="100" width="100">
+	<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+<td>
+	PlayStation 4 Pro
+	<br>$300
+	<img src="Pro.jpg" alt="PS4 Pro" height="100" width="100">
+	<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+<td>Xbox One S
+	<br>$200
+	<img src="s.png" alt="PS4 Pro" height="100" width="100">
+	<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+  </tr>
+  <tr>
+  	<td>
+  		Nintendo Switch
+  		<br>$200
+  		<img src="switch.jpg" alt="switch" height="100" width="100">
+  		<br>
+	<form action="shoppingcart.html" method="post">
+<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+<td>
+	New 3DS XL
+	<br>$100
+	<img src="gal.png" alt="3DS" height="100" width="100">
+	<br>
+	<input type="hidden" name="op" value="add">
+<input type="hidden" name="item_desc" value="iPhone XS">
+<input type="hidden" name="item_price" value="$800">
+<input type="hidden" name="item_id" value="BIA-2605">
+<input type="hidden" name="cid" value="101">
+<input type="submit" value="Add to Cart">
+</td>
+</table>
+</form>
+</html>
